@@ -1,0 +1,9 @@
+{
+  "name": "@vietvu/tea-xyz-quest",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@vietvu",
+  "repository": "https://github.com/vietvu94/tea-xyz-quest",
+  "license": "ISC"
+}
