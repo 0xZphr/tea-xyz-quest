@@ -6,5 +6,6 @@ module.exports = function() {
   console.log('tea.xyz.4');
   console.log('tea.xyz.5');
   console.log('tea.xyz.6');
+  console.log('tea.xyz.7');
   return;
 };
